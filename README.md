@@ -1,5 +1,5 @@
 # cancer-classification--SVM-DT-KNN-and-Logistic-
-## Breast Cnacer Prediction
+## Breast Cancer Prediction
 ## Python coder: Reza Zamani
 
 # This project has two sections:
